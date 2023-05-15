@@ -5,12 +5,18 @@
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<title>README</title>
-
+<title>Toggle Dark Mode on Mobile Web</title>
 
 <style type="text/css">
-body {
-  font-family: Helvetica, arial, sans-serif;
+  .bookmarklet {
+    padding: 1em;
+    background: #6495ED;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 2em;
+  }
+  body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.6;
   padding-top: 10px;
@@ -481,7 +487,7 @@ pre[class*="language-"] {
 
 <h2 id="toc_2">Bookmarklet</h2>
 
-<p><a href="javascript:if(location.host.match(/.bsky.app$/))%7Br=JSON.parse(localStorage.root);s=r.shell;s.darkMode=!s.darkMode;j=JSON.stringify(r);localStorage.setItem(&#x27;root&#x27;,j);window.location.href=window.location.href%7D">bsky☀️🌙</a></p>
+<p><a class="bookmarklet" href="javascript:if(location.host.match(/.bsky.app$/))%7Br=JSON.parse(localStorage.root);s=r.shell;s.darkMode=!s.darkMode;j=JSON.stringify(r);localStorage.setItem(&#x27;root&#x27;,j);window.location.href=window.location.href%7D">bsky☀️🌙</a></p>
 
 <h2 id="toc_3">Installation</h2>
 
