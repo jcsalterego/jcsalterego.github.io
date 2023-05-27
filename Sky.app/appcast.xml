@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sky</title>
+        <item>
+            <title>0.2.6-pre</title>
+            <pubDate>Sat, 27 May 2023 08:46:51 -0500</pubDate>
+            <sparkle:version>0.2.6-pre</sparkle:version>
+            <sparkle:shortVersionString>0.2.6-pre</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
+            <enclosure url="Sky%200.2.6-pre.dmg" length="4621778" type="application/octet-stream" sparkle:edSignature="ZLX5XxxkhjVeLjYOK+hCUduWZKDotwIg9lD4RsLR+e4O2zSMOwFo1By6AQGjwvSQu7Mf2neIOFMIigZJ8bMEDg=="/>
+        </item>
+    </channel>
+</rss>
