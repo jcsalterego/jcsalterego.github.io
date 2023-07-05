@@ -3,12 +3,20 @@
   <channel>
     <title>Sky</title>
     <item>
-        <title>0.3.3</title>
-        <pubDate>Wed, 07 Jun 2023 10:14:26 -0500</pubDate>
-        <sparkle:version>0.3.3</sparkle:version>
-        <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-        <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
-        <enclosure url="https://github.com/jcsalterego/Sky.app/releases/download/0.3.3/Sky.0.3.3.dmg" length="4668789" type="application/octet-stream" sparkle:edSignature="uY6qxPI5R6jzNQzMGybqHMoFEarZ5y2aw0uu3XOW7nSKasoAgLNrLD8j5Z1dm0zoTdT1COdJTxk33RKkoEmlAQ=="/>
+      <title>0.3.4</title>
+      <pubDate>Wed, 05 Jul 2023 14:26:24 -0500</pubDate>
+      <sparkle:version>0.3.4</sparkle:version>
+      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/jcsalterego/Sky.app/releases/download/0.3.4/Sky.0.3.4.dmg" length="4703119" type="application/octet-stream" sparkle:edSignature="8VNb8fZ+THjMh4aJ/+H5VRRVFMRocLgDaok+f0dtmCgKOvB0J9TRJk13S/kahBpkkx5+hTCRs9eqWR+9kugsAg=="/>
+    </item>
+    <item>
+      <title>0.3.3</title>
+      <pubDate>Wed, 07 Jun 2023 10:14:26 -0500</pubDate>
+      <sparkle:version>0.3.3</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/jcsalterego/Sky.app/releases/download/0.3.3/Sky.0.3.3.dmg" length="4668789" type="application/octet-stream" sparkle:edSignature="uY6qxPI5R6jzNQzMGybqHMoFEarZ5y2aw0uu3XOW7nSKasoAgLNrLD8j5Z1dm0zoTdT1COdJTxk33RKkoEmlAQ=="/>
     </item>
     <item>
       <title>0.3.1</title>
