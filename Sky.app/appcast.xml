@@ -8,7 +8,7 @@
       <sparkle:version>0.4.2</sparkle:version>
       <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/jcsalterego/Sky.app/releases/download/0.4.1/Sky.0.4.2.dmg" length="4645423" type="application/octet-stream" sparkle:edSignature="SnzwkS0WTDl8yJ9Ix5bOrGW2OWczbaPgP2nD4CYA9aWavSkAZy8RJe88hHYSR2QETq0m/loGE2On2mX2JXpUBw=="/>
+      <enclosure url="https://github.com/jcsalterego/Sky.app/releases/download/0.4.2/Sky.0.4.2.dmg" length="4645423" type="application/octet-stream" sparkle:edSignature="SnzwkS0WTDl8yJ9Ix5bOrGW2OWczbaPgP2nD4CYA9aWavSkAZy8RJe88hHYSR2QETq0m/loGE2On2mX2JXpUBw=="/>
     </item>
     <item>
       <title>0.4.1</title>
