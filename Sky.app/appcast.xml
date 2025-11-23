@@ -8,7 +8,7 @@
       <sparkle:version>0.5.0</sparkle:version>
       <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/jcsalterego/Sky.app/releases/download/0.5.0/Sky.0.5.0.dmg" length="4653789" type="application/octet-stream" sparkle:edSignature="02YO6iweNk104VLrEjOci4UzQ2kJ4vOogr5Vn9ZLe6pRF7wFlUYi5zZRwV+LFycmIVazWNJDE94kiNSwAZFDCA=="/>
+      <enclosure url="https://github.com/jcsalterego/Sky.app/releases/download/0.5.0/Sky.0.5.0.dmg" length="4651423" type="application/octet-stream" sparkle:edSignature="fvC51HxrokAIj+NleDKReL4HMB2P9huKlsF2Rs+8kXz0GkFBVeDT0x2rp7xajvoBUBeTW/dDC/YecLYzMrUgDw=="/>
     </item>
     <item>
       <title>0.4.3</title>
@@ -16,7 +16,7 @@
       <sparkle:version>0.4.3</sparkle:version>
       <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/jcsalterego/Sky.app/releases/download/0.4.3/Sky.0.4.3.dmg" length="4642228" type="application/octet-stream" sparkle:edSignature="S3miu6a7WjC6gRSeNgmxPgylgJoFTTETWoC99YAvyCe0bWANOSvoR1TQSY51f1PzewVEk+QDsHKtCQkv1LuDAQ=="/>
+      <enclosure url="https://github.com/jcsalterego/Sky.app/releases/download/0.4.3/Sky.0.4.3.dmg" length="4638947" type="application/octet-stream" sparkle:edSignature="xN+U6R+SQtCdPWDyRZWrgl/QGUTKcNfZ4IaxY/Dn2Sdw7GWeXIplEJHG+QEhDqLWltMdMHDQhHbCzp73nTw5AQ=="/>
     </item>
     <item>
       <title>0.4.2</title>
