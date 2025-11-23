@@ -3,6 +3,14 @@
   <channel>
     <title>Sky</title>
     <item>
+      <title>0.5.1</title>
+      <pubDate>Sun, 23 Nov 2025 09:37:31 -0600</pubDate>
+      <sparkle:version>0.5.1</sparkle:version>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/jcsalterego/Sky.app/releases/download/0.5.1/Sky.0.5.1.dmg" length="4650429" type="application/octet-stream" sparkle:edSignature="WV93Rh2twlbrI2q7MYqEzz9JsuqKVRpwoi6t1L2lPQ84OiEnCqUU3kOEY/mq54BF0bVmYfuKz0klm8uoEXLODg=="/>
+    </item>
+    <item>
       <title>0.5.0</title>
       <pubDate>Sat, 08 Nov 2025 20:52:56 -0600</pubDate>
       <sparkle:version>0.5.0</sparkle:version>
